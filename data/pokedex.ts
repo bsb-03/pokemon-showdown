@@ -19852,7 +19852,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: -3004,
 		name: "Vulturegeist",
 		types: ["Flying", "Ghost"],
-		baseStats: { hp: 90, atk: 120, def: 70, spa: 100, spd: 90, spe: 40 },
+		baseStats: { hp: 90, atk: 100, def: 70, spa: 100, spd: 90, spe: 50 },
 		abilities: {0: "Gale Wings", H: "Regenerator"},
 		heightm: 2.0,
 		weightkg: 1,
@@ -19880,4 +19880,14 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 70,
 		eggGroups: ["Undiscovered"],
 	},
+
+	dracocada: {
+		num: -3007,
+		name: "Dracocada",
+		types: ["Dragon", "Bug"],
+		baseStats: { hp: 120, atk: 100, def: 100, spa: 50, spd: 50, spe: 80 },
+		abilities: { 0: "Shed Skin", 1: "Strong Jaw"},
+		weightkg: 60,
+		eggGroups: ["Undiscovered"],
+	}
 };
