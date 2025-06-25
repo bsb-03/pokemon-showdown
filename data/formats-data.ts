@@ -6038,4 +6038,50 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+
+	// b3nmod testing starts here
+
+	thornhog: {
+		tier: "OU",
+	},
+
+	lumilynx: {
+		tier: "OU",
+	},
+
+	jormundlotl: {
+		tier: "OU",
+	},
+
+	vulturegeist: {
+		tier: "OU",
+	},
+
+	galileus: {
+		tier: "OU",
+	},
+
+	dobermeister: {
+		tier: "OU",
+	},
+
+	dracocada: {
+		tier: "OU",
+	},
+
+	aurumole: {
+		tier: "OU",
+	},
+
+	rocksockem: {
+		tier: "OU",
+	},
+
+	vapowire: {
+		tier: "OU",
+	},
+
+	alleycat: {
+		tier: "OU",
+	},
 };
