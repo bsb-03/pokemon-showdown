@@ -99887,4 +99887,147 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			{generation: 5, level: 47, moves: ["darkpulse", "flamethrower", "hyperbeam", "icebeam"]},
 		],
 	},
+
+	// b3nmod testing starts here
+
+	thornhog: {
+		learnset: {
+			leechseed: ["9L1"],
+			gyroball: ["9L1"],
+			powerwhip: ["9L1"],
+			bodypress: ["9L1"],
+			irondefense: ["9L1"],
+			protect: ["9L1"],
+			trailblaze: ["9L1"],
+			spikes: ["9L1"],
+			taunt: ["9L1"],
+		},
+	},
+
+	lumilynx: {
+		learnset: {
+			flamethrower: ["9L1"],
+			moonblast: ["9L1"],
+			fireblast: ["9L1"],
+			hydropump: ["9L1"],
+			thunder: ["9L1"],
+			blizzard: ["9L1"],
+			calmmind: ["9L1"],
+			moonlight: ["9L1"],
+			taunt: ["9L1"],
+			partingshot: ["9L1"],
+		},
+	},
+
+	jormundlotl: {
+		learnset: {
+			outrage: ["9L1"],
+			waterfall: ["9L1"],
+			dragondance: ["9L1"],
+			crunch: ["9L1"],
+			thunderfang: ["9L1"],
+			icefang: ["9L1"],
+			firefang: ["9L1"],
+			psychicfangs: ["9L1"],
+			dragontail: ["9L1"],
+		},
+	},
+
+	vulturegeist: {
+		learnset: {
+			defog: ["9L1"],
+			roost: ["9L1"],
+			shadowball: ["9L1"],
+			hurricane: ["9L1"],
+			uturn: ["9L1"],
+		},
+	},
+
+	galileus: {
+		learnset: {
+			futuresight: ["9L1"],
+			wish: ["9L1"],
+			protect: ["9L1"],
+			teleport: ["9L1"],
+			trickroom: ["9L1"],
+			nastyplot: ["9L1"],
+			encore: ["9L1"],
+		},
+	},
+
+	dobermeister: {
+		learnset: {
+			extremespeed: ["9L1"],
+			tidyup: ["9L1"],
+			crunch: ["9L1"],
+			firefang: ["9L1"],
+			thunderfang: ["9L1"],
+			icefang: ["9L1"],
+			psychicfangs: ["9L1"],
+			partingshot: ["9L1"],
+			uturn: ["9L1"],
+		},
+	},
+
+	dracocada: {
+		learnset: {
+			breakingswipe: ["9L1"],
+			outrage: ["9L1"],
+			leechlife: ["9L1"],
+			bulkup: ["9L1"],
+			uturn: ["9L1"],
+			rapidspin: ["9L1"],
+			firefang: ["9L1"],
+			thunderfang: ["9L1"],
+			icefang: ["9L1"],
+			psychicfangs: ["9L1"],
+		},
+	},
+
+	aurumole: {
+		learnset: {
+			earthquake: ["9L1"],
+			stealthrock: ["9L1"],
+			shoreup: ["9L1"],
+			taunt: ["9L1"],
+			knockoff: ["9L1"],
+			headlongrush: ["9L1"],
+			spikes: ["9L1"],
+			partingshot: ["9L1"],
+		},
+	},
+
+	rocksockem: {
+		learnset: {
+			closecombat: ["9L1"],
+			stoneedge: ["9L1"],
+			swordsdance: ["9L1"],
+			trailblaze: ["9L1"],
+			encore: ["9L1"],
+			firepunch: ["9L1"],
+		},
+	},
+
+	vapowire: {
+		learnset: {
+			voltswitch: ["9L1"],
+			explosion: ["9L1"],
+			nastyplot: ["9L1"],
+			steelbeam: ["9L1"],
+			sludgewave: ["9L1"],
+		},
+	},
+
+	alleycat: {
+		learnset: {
+			nightslash: ["9L1"],
+			knockoff: ["9L1"],
+			sacredsword: ["9L1"],
+			smartstrike: ["9L1"],
+			swordsdance: ["9L1"],
+			encore: ["9L1"],
+			taunt: ["9L1"],
+			partingshot: ["9L1"],
+		},
+	},
 };
