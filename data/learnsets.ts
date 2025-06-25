@@ -99892,30 +99892,36 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 
 	thornhog: {
 		learnset: {
-			leechseed: ["9L1"],
-			gyroball: ["9L1"],
 			powerwhip: ["9L1"],
-			bodypress: ["9L1"],
-			irondefense: ["9L1"],
-			protect: ["9L1"],
 			trailblaze: ["9L1"],
-			spikes: ["9L1"],
-			taunt: ["9L1"],
+			gyroball: ["9L1"],
+			bodypress: ["9L1"],
+			supercellslam: ["9L1"],
+			gigadrain: ["9L1"],
+			steelbeam: ["9L1"],
+			leechseed: ["9L1"],
+			sleeppowder: ["9L1"],
+			rapidspin: ["9L1"],
+			irondefense: ["9L1"],
 		},
 	},
 
 	lumilynx: {
 		learnset: {
+			flareblitz: ["9L1"],
+			playrough: ["9L1"],
 			flamethrower: ["9L1"],
 			moonblast: ["9L1"],
-			fireblast: ["9L1"],
+			highhorsepower: ["9L1"],
+			closecombat: ["9L1"],
 			hydropump: ["9L1"],
+			fireblast: ["9L1"],
 			thunder: ["9L1"],
 			blizzard: ["9L1"],
-			calmmind: ["9L1"],
-			moonlight: ["9L1"],
-			taunt: ["9L1"],
+			bulkup: ["9L1"],
+			nastyplot: ["9L1"],
 			partingshot: ["9L1"],
+			taunt: ["9L1"],
 		},
 	},
 
@@ -99930,6 +99936,12 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			firefang: ["9L1"],
 			psychicfangs: ["9L1"],
 			dragontail: ["9L1"],
+			earthquake: ["9L1"],
+			dracometeor: ["9L1"],
+			surf: ["9L1"],
+			hydropump: ["9L1"],
+			scald: ["9L1"],
+			dragonpulse: ["9L1"],
 		},
 	},
 
@@ -99939,13 +99951,20 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			roost: ["9L1"],
 			shadowball: ["9L1"],
 			hurricane: ["9L1"],
+			poltergeist: ["9L1"],
+			bravebird: ["9L1"],
 			uturn: ["9L1"],
+			knockoff: ["9L1"],
 		},
 	},
 
 	galileus: {
 		learnset: {
 			futuresight: ["9L1"],
+			psychic: ["9L1"],
+			psyshock: ["9L1"],
+			meteorbeam: ["9L1"],
+			flamethrower: ["9L1"],
 			wish: ["9L1"],
 			protect: ["9L1"],
 			teleport: ["9L1"],
@@ -99971,23 +99990,24 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 
 	dracocada: {
 		learnset: {
-			breakingswipe: ["9L1"],
-			outrage: ["9L1"],
+			buggbuzz: ["9L1"],
+			dragonpulse: ["9L1"],
+			dracometeor: ["9L1"],
+			earthpower: ["9L1"],
+			boomburst: ["9L1"],
 			leechlife: ["9L1"],
-			bulkup: ["9L1"],
-			uturn: ["9L1"],
+			quiverdance: ["9L1"],
 			rapidspin: ["9L1"],
-			firefang: ["9L1"],
-			thunderfang: ["9L1"],
-			icefang: ["9L1"],
-			psychicfangs: ["9L1"],
 		},
 	},
 
 	aurumole: {
 		learnset: {
 			earthquake: ["9L1"],
+			earthpower: ["9L1"],
 			stealthrock: ["9L1"],
+			rockblast: ["9L1"],
+			amnesia: ["9L1"],
 			shoreup: ["9L1"],
 			taunt: ["9L1"],
 			knockoff: ["9L1"],
@@ -100001,16 +100021,22 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		learnset: {
 			closecombat: ["9L1"],
 			stoneedge: ["9L1"],
+			knockoff: ["9L1"],
 			swordsdance: ["9L1"],
 			trailblaze: ["9L1"],
 			encore: ["9L1"],
 			firepunch: ["9L1"],
+			thunderpunch: ["9L1"],
+			icepunch: ["9L1"],
 		},
 	},
 
 	vapowire: {
 		learnset: {
+			thunderbolt: ["9L1"],
 			voltswitch: ["9L1"],
+			energyball: ["9L1"],
+			hydropump: ["9L1"],
 			explosion: ["9L1"],
 			nastyplot: ["9L1"],
 			steelbeam: ["9L1"],
@@ -100030,4 +100056,34 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			partingshot: ["9L1"],
 		},
 	},
+
+	tortoitate: {
+		learnset: {
+			uturn: ["9L1"],
+			firstimpression: ["9L1"],
+			leechlife: ["9L1"],
+			zenheadbut: ["9L1"],
+			futuresight: ["9L1"],
+			drainpunch: ["9L1"],
+			bulkup: ["9L1"],
+			calmmind: ["9L1"],
+			drainingkiss: ["9L1"],
+			rapidspin: ["9L1"],
+		},
+	},
+
+	chimpure: {
+		learnset: {
+			gunkshot: ["9L1"],
+			sludgewave: ["9L1"],
+			sludgebomb: ["9L1"],
+			playrough: ["9L1"],
+			dazzlinggleam: ["9L1"],
+			closecombat: ["9L1"],
+			knockoff: ["9L1"],
+			flamethrower: ["9L1"],
+			clearsmog: ["9L1"],
+			taunt: ["9L1"],
+		}
+	}
 };

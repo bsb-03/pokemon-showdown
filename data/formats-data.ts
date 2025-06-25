@@ -6084,4 +6084,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	alleycat: {
 		tier: "OU",
 	},
+
+	tortoitate: {
+		tier: "OU",
+	},
+
+	chimpure: {
+		tier: "OU",
+	},
 };

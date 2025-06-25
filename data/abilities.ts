@@ -5658,4 +5658,21 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		rating: 3,
 		num: -4,
 	},
+
+	// b3nmod testing
+
+	bugeater: {
+		onTryHit(target, source, move) {
+			if (target !== source && move.type === 'Bug') {
+				if (!this.heal(target.baseMaxhp / 4)) {
+					this.add('-immune', target, '[from] ability: Bug Eater');
+				}
+				return null;
+			}
+		},
+		flags: { breakable: 1 },
+		name: "Bug Eater",
+		rating: 3.5,
+		num: 10,
+	},
 };
