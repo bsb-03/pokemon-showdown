@@ -6043,53 +6043,79 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 
 	thornhog: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	lumilynx: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	jormundlotl: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	vulturegeist: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	galileus: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	dobermeister: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	dracocada: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	aurumole: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	rocksockem: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	vapowire: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	alleycat: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	tortoitate: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 
 	chimpure: {
 		tier: "OU",
+		doublesTier: "(DOU)",
+		natDexTier: "(OU)",
 	},
 };
