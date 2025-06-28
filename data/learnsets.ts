@@ -99893,16 +99893,14 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	thornhog: {
 		learnset: {
 			powerwhip: ["9L1"],
-			trailblaze: ["9L1"],
 			gyroball: ["9L1"],
+			gigadrain: ["9L1"],
+			flashcannon: ["9L1"],
 			bodypress: ["9L1"],
 			supercellslam: ["9L1"],
-			gigadrain: ["9L1"],
-			steelbeam: ["9L1"],
 			leechseed: ["9L1"],
-			sleeppowder: ["9L1"],
-			rapidspin: ["9L1"],
 			irondefense: ["9L1"],
+			spikes: ["9L1"],
 		},
 	},
 
@@ -99922,6 +99920,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			nastyplot: ["9L1"],
 			partingshot: ["9L1"],
 			taunt: ["9L1"],
+			willowisp: ["9L1"],
 		},
 	},
 
@@ -99942,6 +99941,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			hydropump: ["9L1"],
 			scald: ["9L1"],
 			dragonpulse: ["9L1"],
+			aquajet: ["9L1"],
 		},
 	},
 
@@ -99951,10 +99951,12 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			roost: ["9L1"],
 			shadowball: ["9L1"],
 			hurricane: ["9L1"],
+			sludgewave: ["9L1"],
 			poltergeist: ["9L1"],
 			bravebird: ["9L1"],
 			uturn: ["9L1"],
 			knockoff: ["9L1"],
+			toxic: ["9L1"],
 		},
 	},
 
@@ -99971,6 +99973,9 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			trickroom: ["9L1"],
 			nastyplot: ["9L1"],
 			encore: ["9L1"],
+			thunderbolt: ["9L1"],
+			scald: ["9L1"],
+			icebeam: ["9L1"],
 		},
 	},
 
@@ -99985,6 +99990,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			psychicfangs: ["9L1"],
 			partingshot: ["9L1"],
 			uturn: ["9L1"],
+			hyperbeam: ["9L1"],
+			encore: ["9L1"],
 		},
 	},
 
@@ -99998,6 +100005,9 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			leechlife: ["9L1"],
 			quiverdance: ["9L1"],
 			rapidspin: ["9L1"],
+			bulkup: ["9L1"],
+			uturn: ["9L1"],
+			ironhead: ["9L1"],
 		},
 	},
 
@@ -100028,6 +100038,9 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			firepunch: ["9L1"],
 			thunderpunch: ["9L1"],
 			icepunch: ["9L1"],
+			focusblast: ["9L1"],
+			ancientpower: ["9L1"],
+			machpunch: ["9L1"],
 		},
 	},
 
@@ -100041,6 +100054,9 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			nastyplot: ["9L1"],
 			steelbeam: ["9L1"],
 			sludgewave: ["9L1"],
+			flamethrower: ["9L1"],
+			nuzzle: ["9L1"],
+			clearsmog: ["9L1"],
 		},
 	},
 
@@ -100059,16 +100075,14 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 
 	tortoitate: {
 		learnset: {
-			uturn: ["9L1"],
-			firstimpression: ["9L1"],
-			leechlife: ["9L1"],
+			powerwhip: ["9L1"],
 			zenheadbut: ["9L1"],
-			futuresight: ["9L1"],
-			drainpunch: ["9L1"],
 			bulkup: ["9L1"],
-			calmmind: ["9L1"],
-			drainingkiss: ["9L1"],
 			rapidspin: ["9L1"],
+			knockoff: ["9L1"],
+			futuresight: ["9L1"],
+			uturn: ["9L1"],
+			leafstorm: ["9L1"],
 		},
 	},
 
