@@ -99999,7 +99999,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 
 	dracocada: {
 		learnset: {
-			buggbuzz: ["9L1"],
+			bugbuzz: ["9L1"],
 			dragonpulse: ["9L1"],
 			dracometeor: ["9L1"],
 			earthpower: ["9L1"],
@@ -100080,7 +100080,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	tortoitate: {
 		learnset: {
 			powerwhip: ["9L1"],
-			zenheadbut: ["9L1"],
+			zenheadbutt: ["9L1"],
 			bulkup: ["9L1"],
 			rapidspin: ["9L1"],
 			knockoff: ["9L1"],
