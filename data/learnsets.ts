@@ -100084,6 +100084,6 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			flamethrower: ["9L1"],
 			clearsmog: ["9L1"],
 			taunt: ["9L1"],
-		}
-	}
+		},
+	},
 };
