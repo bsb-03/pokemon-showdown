@@ -19816,7 +19816,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: -3001,
 		name: "Thornhog",
 		types: ["Grass", "Steel"],
-		baseStats: { hp: 120, atk: 90, def: 100, spa: 80, spd: 80, spe: 30 },
+		baseStats: { hp: 110, atk: 90, def: 100, spa: 80, spd: 90, spe: 30 },
 		abilities: { 0: "Overgrow", H: "Iron Barbs" },
 		heightm: 1.0,
 		weightkg: 110,
@@ -19948,6 +19948,16 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		baseStats: { hp: 80, atk: 100, def: 60, spa: 100, spd: 60, spe: 100 },
 		abilities: { 0: "Merciless" },
 		weightkg: 40,
+		eggGroups: ["Undiscovered"],
+	},
+
+	beavington: {
+		num: -3013,
+		name: "Beavington",
+		types: ["Water"],
+		baseStats: {hp: 100, atk: 80, def: 90, spa: 100, spd: 90, spe: 40 },
+		abilities: { 0: "Cheek Pouch"},
+		weightkg: 100,
 		eggGroups: ["Undiscovered"],
 	},
 };

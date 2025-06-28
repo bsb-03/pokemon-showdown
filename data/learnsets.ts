@@ -99900,7 +99900,9 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			supercellslam: ["9L1"],
 			leechseed: ["9L1"],
 			irondefense: ["9L1"],
+			rapidspin: ["9L1"],
 			spikes: ["9L1"],
+			voltswitch: ["9L1"],
 		},
 	},
 
@@ -100070,6 +100072,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			encore: ["9L1"],
 			taunt: ["9L1"],
 			partingshot: ["9L1"],
+			darkpulse: ["9L1"],
+			shadowball: ["9L1"],
 		},
 	},
 
@@ -100083,6 +100087,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			futuresight: ["9L1"],
 			uturn: ["9L1"],
 			leafstorm: ["9L1"],
+			psychic: ["9L1"],
+			psyshock: ["9L1"],
 		},
 	},
 
@@ -100096,8 +100102,26 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			closecombat: ["9L1"],
 			knockoff: ["9L1"],
 			flamethrower: ["9L1"],
+			psychic: ["9L1"],
+			darkpulse: ["9L1"],
 			clearsmog: ["9L1"],
 			taunt: ["9L1"],
+		},
+	},
+
+	beavington: {
+		learnset: {
+			waterfall: ["9L1"],
+			surf: ["9L1"],
+			hydropump: ["9L1"],
+			heavyslam: ["9L1"],
+			bodypress: ["9L1"],
+			irondefense: ["9L1"],
+			amnesia: ["9L1"],
+			bellydrum: ["9L1"],
+			aquajet: ["9L1"],
+			bodyslam: ["9L1"],
+			ironhead: ["9L1"],
 		},
 	},
 };
