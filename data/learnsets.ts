@@ -100122,6 +100122,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			aquajet: ["9L1"],
 			bodyslam: ["9L1"],
 			ironhead: ["9L1"],
+			flipturn: ["9L1"],
 		},
 	},
 };
